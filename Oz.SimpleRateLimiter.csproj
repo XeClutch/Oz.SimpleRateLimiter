@@ -1,15 +1,14 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <TargetFramework>net8.0</TargetFramework>
-        <ImplicitUsings>enable</ImplicitUsings>
-        <Nullable>enable</Nullable>
+        <TargetFramework>netstandard2.0</TargetFramework>
         <RootNamespace>Oz.RateLimiting</RootNamespace>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <Authors>Joshua Ozeri</Authors>
         <Description>A simple and intuitive rate limiter. No frills.</Description>
         <PackageProjectUrl>https://www.github.com/XeClutch/Oz.SimpleRateLimiter</PackageProjectUrl>
         <RepositoryUrl>https://www.github.com/XeClutch/Oz.SimpleRateLimiter.git</RepositoryUrl>
+        <Version>1.0.1</Version>
     </PropertyGroup>
 
 </Project>
