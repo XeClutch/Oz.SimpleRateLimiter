@@ -1,4 +1,4 @@
-﻿# Oz.SimpleRateLimiter <a href="https://www.nuget.org/packages/Oz.SimpleRateLimiter"><img alt="NuGet" src="https://badgen.net/badge/Oz.SimpleRateLimiter/v1.0.0/blue?icon=nuget"/></a>
+﻿# Oz.SimpleRateLimiter <a href="https://www.nuget.org/packages/Oz.SimpleRateLimiter"><img alt="NuGet" src="https://badgen.net/badge/Oz.SimpleRateLimiter/v1.0.1/blue?icon=nuget"/></a>
 SimpleRateLimiter is.. well.. just that. A short, sweet and to the point rate limiter (with interrupt-ability!). Implement it however you like. Use it in a loop or implement it into a delegate handler. Create a derivative of your favorite class and use it in otherwise pointless overrides that just point back to `base`. Whatever you want.
 
 ## Example
